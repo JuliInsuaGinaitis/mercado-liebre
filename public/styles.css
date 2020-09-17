@@ -1,0 +1,30 @@
+header {
+    background-color: #EAC926;
+  }
+
+body {
+    background-color: #ebebeb;
+}
+
+nav {
+    text-decoration: none;
+}
+
+article {
+    background-color: #FFFFFF;
+}
+
+#ultima-visita {
+
+    color:#666;
+    padding: 10px 10px ;
+}
+
+#camion { 
+    color: #39b54a;
+
+}
+
+#discount {
+    color: #39b54a;
+}
