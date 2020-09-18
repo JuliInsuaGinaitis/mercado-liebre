@@ -1,3 +1,8 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px
+}
+
 header {
     background-color: #EAC926;
   }
@@ -14,6 +19,10 @@ article {
     background-color: #FFFFFF;
 }
 
+h4 {
+    font-size: 24px;
+}
+
 #ultima-visita {
 
     color:#666;
@@ -27,4 +36,19 @@ article {
 
 #discount {
     color: #39b54a;
+    font-size: 16px
+}
+
+#precio {
+    font-size: 18px;
+
+}
+
+#descripcion {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #FFFFFF;
 }
