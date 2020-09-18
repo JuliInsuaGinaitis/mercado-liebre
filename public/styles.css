@@ -1,6 +1,7 @@
 :root {
     font-family: 'Roboto', sans-serif;
-    font-size: 12px
+    font-size: 12px;
+    color: #000000;
 }
 
 header {
@@ -11,8 +12,24 @@ body {
     background-color: #ebebeb;
 }
 
-nav {
+#logo-mercado-liebre {
+    width: 50%;
+}
+
+#barra-buscador {
+    width: 50%;
+    float:right;
+    padding-top: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+#menu {
     text-decoration: none;
+    font-size: 16px;
+    color: #000000;
 }
 
 article {
@@ -31,6 +48,7 @@ h4 {
 
 #camion { 
     color: #39b54a;
+    font-size: 25px;
 
 }
 
@@ -52,3 +70,9 @@ h4 {
 footer {
     background-color: #FFFFFF;
 }
+
+#iconos-footer {
+    color:blue;
+    font-size: 25px;
+}
+
